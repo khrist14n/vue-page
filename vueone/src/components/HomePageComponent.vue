@@ -19,7 +19,7 @@ export default {
             </b-navbar-nav>
             <b-navbar-nav small class="col-7 text-left">
                 <b-nav align="justify" >
-                    <b-nav-item text="Admin@christianportilla.com" class="text-dark">
+                    <b-nav-item text="admin@christianportilla.com" class="text-dark">
                         <font-awesome-icon :icon="['fas', 'envelope-square']" />
                         Admin@christianportilla.com
                     </b-nav-item>
