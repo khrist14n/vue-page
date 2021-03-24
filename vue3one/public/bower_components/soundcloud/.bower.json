@@ -1,0 +1,15 @@
+{
+  "name": "soundcloud",
+  "homepage": "https://github.com/soundcloud/soundcloud-javascript",
+  "version": "3.3.0",
+  "_release": "3.3.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v3.3.0",
+    "commit": "47a6a781273da1b7ce205ca429098f0b9456fe2d"
+  },
+  "_source": "https://github.com/soundcloud/soundcloud-javascript.git",
+  "_target": "^3.3.0",
+  "_originalSource": "soundcloud",
+  "_direct": true
+}

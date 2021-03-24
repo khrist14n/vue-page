@@ -1,0 +1,29 @@
+{
+  "name": "videojs-soundcloud",
+  "version": "1.0.0",
+  "homepage": "https://github.com/LoveIsGrief/videojs-soundcloud",
+  "authors": [
+    "LoveIsGrief <LoveIsGrief@users.noreply.github.com>"
+  ],
+  "description": "A plugin for videojs to allow soundcloud playback.",
+  "main": [
+    "dist/media.soundcloud.js",
+    "dist/media.soundcloud.dev.js",
+    "dist/media.soundcloud.min.js"
+  ],
+  "keywords": [
+    "soundcloud",
+    "videojs"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "videojs": "~4.12.1"
+  }
+}

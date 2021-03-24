@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>SDK playground - Recording</title>
+    <script type="text/javascript" src="../sdk.js"></script>
+    <link rel="stylesheet" href="recording.css" media="screen" charset="utf-8">
+    <script type="text/javascript" src="https://blueimp.github.io/JavaScript-Canvas-to-Blob/js/canvas-to-blob.min.js"></script>
+  </head>
+  <body>
+    <canvas id="canvas"></canvas>
+    <video id="video"></video>
+
+    <div id="recording">recording</div>
+    <div id="overlay">
+      <div id="message">
+        <p>
+          This app demonstrates how to record and upload songs with the SoundCloud SDK.
+        </p>
+        <p>
+          After connecting your account, it will record audio as long as you press down on the video.
+        </p>
+        <p>
+          Once you release the video, it will take a snapshot and stop the recording.
+        </p>
+        <p>
+          Then it uploads both to SoundCloud as private track :)
+        </p>
+        <div id="connect" class="button">Connect</div>
+      </div>
+    </div>
+
+    <script type="text/javascript" src="recording.js"></script>
+  </body>
+</html>

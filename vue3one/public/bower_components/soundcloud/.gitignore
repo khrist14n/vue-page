@@ -1,0 +1,7 @@
+.DS_Store
+sdk.js
+node_modules
+build
+.tmp
+/vendor/node
+/*.worker.js
