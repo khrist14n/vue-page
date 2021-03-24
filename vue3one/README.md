@@ -22,3 +22,8 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+### prime faces for vue
+
+https://primefaces.org/primevue/showcase/#/setup
